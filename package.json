@@ -1,0 +1,17 @@
+{
+  "name": "serviceshomenews",
+  "version": "1.0.0",
+  "description": "bot in dialogFlow",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "trini",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "request": "^2.83.0",
+    "apiai": "^4.0.3"
+  }
+}
